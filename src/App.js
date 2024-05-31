@@ -65,14 +65,14 @@ function App() {
             <div id="socials-container">
               <a href='https://www.linkedin.com/in/naufalmzkki/'>
                 <img
-                  src="/assets/vector1.png"
+                  src="/assets/Vector1.png"
                   alt="My LinkedIn profile"
                   class="icon"
                 />
               </a>
               <a href='https://github.com/hiiamanop'>
                 <img
-                  src="/assets/vector.png"
+                  src="/assets/Vector.png"
                   alt="My Github profile"
                   class="icon"
                 />
@@ -316,7 +316,7 @@ function App() {
           <div class="contact-info-upper-container">
             <div class="contact-info-container">
               <img
-                src="/assets/vector2.png"
+                src="/assets/Vector2.png"
                 alt="Email icon"
                 class="icon contact-icon email-icon"
               />
@@ -324,7 +324,7 @@ function App() {
             </div>
             <div class="contact-info-container">
               <img
-                src="/assets/vector1.png"
+                src="/assets/Vector1.png"
                 alt="LinkedIn icon"
                 class="icon contact-icon"
               />

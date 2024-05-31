@@ -216,7 +216,6 @@ section {
 /* ICONS */
 
 .icon {
-  cursor: pointer;
   height: 2rem;
 }
 
@@ -325,7 +324,6 @@ section {
 
 #experience {
   position: relative;
-  margin-bottom: -10rem;
 }
 
 .experience-sub-title {
